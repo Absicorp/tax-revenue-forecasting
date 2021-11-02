@@ -11,7 +11,7 @@ The materials in this repository are companion pieces to an article describing t
 ## Authors
 [**Vladimir Kolesnikov** — Senior Data Scientist at Sber](https://www.linkedin.com/in/kolesnikovvladimir/) 
 
-[**Abylaykhan Yergesh** — Junior Data Scientist at Sber]
+[**Abylaykhan Yergesh** — Junior Data Scientist at Sber](https://www.linkedin.com/in/yergeshabylaykhan/) 
 
 [**Valeriya Rudikova** — Junior Data Scientist at Sber](https://www.linkedin.com/in/valeriya-rudikova-49874b158/) 
 
