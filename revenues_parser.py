@@ -237,6 +237,9 @@ def main():
     df = pd.DataFrame(data)
     print(data)
     print(df)
+    
+    return df
 
 if __name__ == '__main__':
-    main()
+    df = main()
+    df.to_csv('data/parsed_data.csv')
