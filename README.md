@@ -7,6 +7,7 @@ The materials in this repository are companion pieces to an article describing t
 - [Authors](#authors)
 - [Requirements](#Requirements)
 - [Documentation](#documentation)
+- [Research results](#Research results)
   
 ## Authors
 [**Vladimir Kolesnikov** — Senior Data Scientist at Sber](https://www.linkedin.com/in/kolesnikovvladimir/) 
