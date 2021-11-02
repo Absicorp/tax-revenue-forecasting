@@ -5,7 +5,7 @@ The materials in this repository are companion pieces to an article describing t
  
 ## Table of contents
 - [Authors](#authors)
-- [Installation](#installation)
+- [Requirements](#Requirements)
 - [Documentation](#documentation)
   
 ## Authors
