@@ -31,3 +31,10 @@ The full documentation for silverkite available at **[https://github.com/linkedi
 
 The full documentation for fbprophet available at **[https://github.com/facebook/prophet](https://github.com/facebook/prophet)**.
 
+
+## Research results
+
+**image**
+
+**table**
+
