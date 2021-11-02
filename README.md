@@ -9,9 +9,9 @@ The materials in this repository are companion pieces to an article describing t
 - [Documentation](#documentation)
   
 ## Authors
-[**Vladimir Kolesnikov** — Senior DataMonkey at Sber](https://www.linkedin.com/in/kolesnikovvladimir/) 
+[**Vladimir Kolesnikov** — Senior Data Scientist at Sber](https://www.linkedin.com/in/kolesnikovvladimir/) 
 
-[**Abylaykhan Yergesh** — Junior Data Scientist at Sber](https://www.linkedin.com/in/kolesnikovvladimir/) 
+[**Abylaykhan Yergesh** — Junior Data Scientist at Sber]
 
 [**Valeriya Rudikova** — Junior Data Scientist at Sber](https://www.linkedin.com/in/valeriya-rudikova-49874b158/) 
 
