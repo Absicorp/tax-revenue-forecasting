@@ -34,7 +34,7 @@ The full documentation for fbprophet available at **[https://github.com/facebook
 
 ## Research results
 
-**image**
+![alt text](https://github.com/[Absicorp]/[tax-revenue-forecasting]/blob/[images]/result.png?raw=true)
 
 | model name  | MAPE | R2 | q_test(a=0.05) | q_test_pvalue |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
