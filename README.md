@@ -36,5 +36,9 @@ The full documentation for fbprophet available at **[https://github.com/facebook
 
 **image**
 
-**table**
+| model name  | MAPE | R2 | q_test(a=0.05) | q_test_pvalue |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| arima  | 7,859  | 0,934  | 0,007  | 0,93  |
+| fbprophet  | 5,668  | 0,953  | 1,21  | 0,269  |
+| silverkite  | 3,958  | 0,984  | 0,095  | 0,756  |
 
