@@ -7,7 +7,7 @@ The materials in this repository are companion pieces to an article describing t
 - [Authors](#authors)
 - [Requirements](#Requirements)
 - [Documentation](#documentation)
-- [Research results](#Research results)
+- [Research results](#results)
   
 ## Authors
 [**Vladimir Kolesnikov** — Senior Data Scientist at Sber](https://www.linkedin.com/in/kolesnikovvladimir/) 
@@ -33,7 +33,7 @@ The full documentation for silverkite available at **[https://github.com/linkedi
 The full documentation for fbprophet available at **[https://github.com/facebook/prophet](https://github.com/facebook/prophet)**.
 
 
-## Research results
+## results
 
 ![results](https://github.com/Absicorp/tax-revenue-forecasting/blob/main/images/result.png)
 
