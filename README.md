@@ -22,7 +22,7 @@ Python 3.8 version or above
 
 silverkyte==0.2.0
 
-fbprophet==0.1.0
+fbprophet==0.7.1
 
 Other installation options are described in the [documentation](https://pystan2.readthedocs.io/en/latest/windows.html).
 
